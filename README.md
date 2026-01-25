@@ -1,13 +1,32 @@
-<img src="[https://github.com/{USERNAME}/{USERNAME}/blob/main/software-developer.png](https://github.com/mbalabon/Balabon-Data-Science-Portfolio/blob/main/rainbow%20notre%20dame.png)" alt="Banner of a rainbow notre dame">
-
 # Hi, I'm Macy! 👋
 
-I'm a student at the University of Notre Dame studying Political Science and Data Science.
+I'm a sophomore at the University of Notre Dame majoring in Political Science with a minor in Data Science. I'm interested in using data and research to better understand policy, migration, and social issues.
+
 
 ## About Me
-- 🎓 Currently taking Introduction to Data Science
-- 🌱 Learning Python, pandas, and data visualization
-- 📫 How to reach me: mbalabon@nd.edu
+- 🎓 University of Notre Dame, Class of 2028  
+- 📚 Major: Political Science | Minor: Data Science  
+- 💼 Research Assistant in the Department of German, Slavic, and Eurasian Studies  
+- 🌱 Currently taking *Introduction to Data Science* and learning Python and data analysis  
+
+
+## Skills
+- **Languages:** Python (beginner)  
+- **Libraries & Tools:** pandas, seaborn, matplotlib
+- **Skills:** exploratory data analysis, basic visualization  
+
+
+## Portfolio
+-   **Data Science Portfolio:** [[Macy's Portfolio](https://github.com/mbalabon/Balabon-Data-Science-Portfolio)]  
+
 
 ## Interests
-- I love to travel to new places and read!
+- Migration and refugee policy  
+- Public policy and law  
+- Traveling and reading  
+
+---
+
+## Contact
+- **Email:** mbalabon@nd.edu
+- **LinkedIn:** [https://www.linkedin.com/in/macy-balabon/]

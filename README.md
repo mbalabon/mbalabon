@@ -4,8 +4,11 @@
 
 ## ★ About me
 ★ Sophomore at the University of Notre Dame 
+
 ★ Major: Political Science
+
 ★ Minor: Data Science.
+
 ★ Interests: Reading 📖, traveling 🗺️, and taste testing coffee ☕️!
 
 ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.

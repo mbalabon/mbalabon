@@ -11,7 +11,7 @@
 
 ★ 🎓 Sophomore at the University of Notre Dame 
 
-★ 📚 Studying Political Science and Data Science 
+★ 📚 Studying [Political Science](https://politicalscience.nd.edu/undergraduate/) and [Data Science](https://altech.nd.edu/programs/data-science-minor/)
 
 <p align="center">
 ₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.
@@ -31,7 +31,7 @@
 ## ★ Current Projects
 ★ 📊 Learning data analysis and visualization techniques 
 
-★ 🧠 Research Assistant for Notre Dame's Department for German, Slavic, and Eurasian Studies  
+★ 🧠 Research Assistant for [Notre Dame's Department for German, Slavic, and Eurasian Studies](https://germanandslavic.nd.edu/)  
 
 <p align="center">
 ₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.

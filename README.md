@@ -1,7 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4d4d,100:800000&height=200&section=header&text=Hi,%20I'm%20Macy!&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-</p>
-
+  <img width="731" height="399" alt="Screenshot 2026-04-12 at 4 57 45 PM" src="https://github.com/user-attachments/assets/5375ff8a-bf9c-49e5-a676-dc25bc6dc3e6" />
 ݁<p align="center">
 ₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.
 </p>

@@ -38,7 +38,7 @@
 ## ★ Skills
 ★ 💻 Python (beginner)  
 
-★ 📈 Exploratory Data Analysis, Cleaning Data, and Data Visualization  
+★ 📈 Exploratory Data Analysis, Cleaning Data, Data Visualization, and Machine Learning Models 
 
 <p align="center">
 ₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.

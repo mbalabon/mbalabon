@@ -27,7 +27,9 @@
 </p>
 
 ## ★ Current Projects
-★ 📊 Learning data analysis and visualization techniques 
+★ 📊 Learning data analysis and visualization techniques. My Portfolio:  <a href="https://github.com/mbalabon/Balabon-Data-Science-Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=github" />
+  </a>
 
 ★ 🧠 Research Assistant for [Notre Dame's Department for German, Slavic, and Eurasian Studies](https://germanandslavic.nd.edu/)  
 

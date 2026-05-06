@@ -15,6 +15,23 @@
 ₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.
 </p>
 
+## 📫 Contact Links
+<p align="left">
+  <a href="mailto:mbalabon@nd.edu">
+    <img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/macy-balabon/">
+    <img src="https://img.shields.io/badge/LinkedIn-grey?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/mbalabon/Balabon-Data-Science-Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+<p align="center">
+₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.
+</p>  
+
 ## ★ Outside of class, I love
 ★ ✈️ Traveling & Hiking
 
@@ -50,23 +67,6 @@
 ★ 🍎 Strengthen Python and data analysis skills  
 
 ★ 📚 Learn statistical and computational methods that are useful for policy research! 
-
-<p align="center">
-₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.
-</p>  
-
-## 📫 Contact Links
-<p align="left">
-  <a href="mailto:mbalabon@nd.edu">
-    <img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/macy-balabon/">
-    <img src="https://img.shields.io/badge/LinkedIn-grey?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/mbalabon/Balabon-Data-Science-Portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=github" />
-  </a>
-</p>
 
 <p align="center">
 ₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.

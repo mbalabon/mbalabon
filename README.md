@@ -1,21 +1,10 @@
 <p align="center">
-  <img width="731" height="399" alt="Screenshot 2026-04-12 at 4 57 45 PM" src="https://github.com/user-attachments/assets/5375ff8a-bf9c-49e5-a676-dc25bc6dc3e6" />
-݁<p align="center">
-₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.
+  <img width="731" height="399" alt="Screenshot 2026-04-12 at 4 57 45 PM" src="https://github.com/user-attachments/assets/5375ff8a-bf9c-49e5-a676-dc25bc6dc3e6" />
 </p>
 
-## ★ About me
-★ 📍 Originally from Chicago  
+🎓 Political Science Major + Data Science Minor  
+📍 University of Notre Dame | Originally from Chicago  
 
-★ 🎓 Sophomore at the University of Notre Dame 
-
-★ 📚 Studying [Political Science](https://politicalscience.nd.edu/undergraduate/) and [Data Science](https://altech.nd.edu/programs/data-science-minor/)
-
-<p align="center">
-₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.
-</p>
-
-## 📫 Contact Links
 <p align="left">
   <a href="mailto:mbalabon@nd.edu">
     <img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail" />
@@ -30,47 +19,57 @@
 
 <p align="center">
 ₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.
-</p>  
+</p>
 
-## ★ Outside of class, I love
-★ ✈️ Traveling & Hiking
+## ★ About Me
 
-★ 📖 Reading   
+I am a sophomore at the University of Notre Dame studying [Political Science](https://politicalscience.nd.edu/undergraduate/) with a minor in [Data Science](https://altech.nd.edu/programs/data-science-minor/). I am interested in policy research, political behavior, migration, and using data to better understand social and political questions.
 
-★ 🐶 Two golden Samoyeds: Benjamin & Franklin
+## ★ Highlights
+
+★ 🧠 Research Assistant for [Notre Dame's Department of German, Slavic, and Eurasian Studies](https://germanandslavic.nd.edu/)  
+
+★ 📊 Building a [Data Science Portfolio](https://github.com/mbalabon/Balabon-Data-Science-Portfolio) with projects in Python, machine learning, visualization, and Streamlit  
+
+★ 📚 Interested in applying data analysis to public policy and social science research  
+
+★ ✍️ Experience with academic research, writing, and project documentation  
 
 <p align="center">
 ₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.
 </p>
 
-## ★ Current Projects
-★ 📊 Learning data analysis and visualization techniques. My Portfolio:  <a href="https://github.com/mbalabon/Balabon-Data-Science-Portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=github" />
-  </a>
+## ★ Featured Projects
 
-★ 🧠 Research Assistant for [Notre Dame's Department for German, Slavic, and Eurasian Studies](https://germanandslavic.nd.edu/)  
+| Project | Description |
+|---|---|
+| [Data Science Portfolio](https://github.com/mbalabon/Balabon-Data-Science-Portfolio) | Main portfolio with my data science projects, notebooks, Streamlit apps, and README write-ups. |
+| 🧑‍💻 Supervised Machine Learning App | Interactive app for exploring supervised learning models, hyperparameters, and evaluation metrics. |
+| 🧩 Unsupervised Learning App | Interactive app focused on clustering, PCA, silhouette scores, elbow plots, and dendrograms. |
+| 🧹 Tidy Data Project | Project focused on cleaning, reshaping, and organizing data for analysis. |
+| 🎧 Spotify / Music Data Project | Exploratory data analysis project using music-related data and visualizations. |
 
 <p align="center">
 ₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.
 </p>
 
 ## ★ Skills
-★ 💻 Python (beginner)  
 
-★ 📈 Exploratory Data Analysis, Cleaning Data, Data Visualization, and Machine Learning Models 
+★ 💻 **Programming:** Python, basic R  
+
+★ 📈 **Data Analysis:** pandas, NumPy, data cleaning, exploratory data analysis  
+
+★ 📊 **Visualization:** matplotlib, seaborn  
+
+★ 🤖 **Machine Learning:** scikit-learn, regression, classification, clustering, PCA  
+
+★ 🛠️ **Apps and Tools:** Streamlit, Google Colab, VS Code, GitHub, Kaggle  
+
+★ 📚 **Research:** policy research, literature review, academic writing, documentation  
 
 <p align="center">
 ₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.
 </p>
-
-## ★ Goals
-★ 🍎 Strengthen Python and data analysis skills  
-
-★ 📚 Learn statistical and computational methods that are useful for policy research! 
-
-<p align="center">
-₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.
-</p>  
 
 ## 🚀 &nbsp;Some Tools I Have Used and Learned
 
@@ -88,3 +87,30 @@
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" alt="matplotlib" width="65" height="65"/></td>
   </tr>
 </table>
+
+<p align="center">
+₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.
+</p>
+
+## ★ Goals
+
+★ 🍎 Strengthen my Python, statistics, and data visualization skills  
+
+★ 📊 Build clearer and more interactive data science projects  
+
+★ 📚 Apply data analysis to policy, politics, and social science research  
+
+<p align="center">
+₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.
+</p>
+
+## ★ Outside of Class
+
+★ ✈️ Traveling and hiking  
+
+★ 📖 Reading  
+
+★ 🐶 Spending time with my two golden Samoyeds, Benjamin and Franklin  
+
+<p align="center">
+</p>

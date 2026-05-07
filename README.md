@@ -44,10 +44,10 @@ I am a sophomore at the University of Notre Dame studying [Political Science](ht
 | Project | Description |
 |---|---|
 | [Data Science Portfolio](https://github.com/mbalabon/Balabon-Data-Science-Portfolio) | Main portfolio with my data science projects, notebooks, Streamlit apps, and README write-ups. |
-| 🧑‍💻 Supervised Machine Learning App | Interactive app for exploring supervised learning models, hyperparameters, and evaluation metrics. |
-| 🧩 Unsupervised Learning App | Interactive app focused on clustering, PCA, silhouette scores, elbow plots, and dendrograms. |
-| 🧹 Tidy Data Project | Project focused on cleaning, reshaping, and organizing data for analysis. |
-| 🎧 Spotify / Music Data Project | Exploratory data analysis project using music-related data and visualizations. |
+| [🧑‍💻 Supervised Machine Learning App](https://github.com/mbalabon/Balabon-Data-Science-Portfolio/tree/main/MLStreamlitApp) | Interactive app for exploring supervised learning models, hyperparameters, and evaluation metrics. |
+| [🧩 Unsupervised Learning App](https://github.com/mbalabon/Balabon-Data-Science-Portfolio/tree/main/MLUnsupervisedApp) | Interactive app focused on clustering, PCA, silhouette scores, elbow plots, and dendrograms. |
+| [🧹 Tidy Data Project](https://github.com/mbalabon/Balabon-Data-Science-Portfolio/tree/main/TidyData-Project) | Project focused on cleaning, reshaping, and organizing data for analysis. |
+| [🎧 Spotify / Music Data Project](https://github.com/mbalabon/Balabon-Data-Science-Portfolio/tree/main/basic_streamlit_app) | Exploratory data analysis project using music-related data and visualizations. |
 
 <p align="center">
 ₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.

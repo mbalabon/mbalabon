@@ -23,7 +23,7 @@
 
 ## ★ About Me
 
-I am a sophomore at the University of Notre Dame studying [Political Science](https://politicalscience.nd.edu/undergraduate/) with a minor in [Data Science](https://altech.nd.edu/programs/data-science-minor/). I am interested in policy research, political behavior, migration, and using data to better understand social and political questions.
+I am a junior at the University of Notre Dame studying [Political Science](https://politicalscience.nd.edu/undergraduate/) with a minor in [Data Science](https://altech.nd.edu/programs/data-science-minor/). I am interested in policy research, education, political behavior, migration, and using data to better understand social, economic, and political questions.
 
 ## ★ Highlights
 
@@ -94,7 +94,7 @@ I am a sophomore at the University of Notre Dame studying [Political Science](ht
 
 ## ★ Goals
 
-★ 🍎 Strengthen my Python, statistics, and data visualization skills  
+★ 🍎 Strengthen my Python, R, Stata, statistics, and data visualization skills  
 
 ★ 📊 Build clearer and more interactive data science projects  
 
